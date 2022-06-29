@@ -1,4 +1,4 @@
-# Weather-Dashboard-KS
+Weather Dashboard
 
 Task
 Create a weather application for travelers to view weather outlook for various cities so they can pack accorindingly.
